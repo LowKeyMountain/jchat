@@ -1,4 +1,4 @@
-package com.shcw.jchar;
+package com.shcw.jchat;
 
 /**
  * Hello world!
